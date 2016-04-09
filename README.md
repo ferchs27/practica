@@ -1,6 +1,6 @@
 #hola mundo
 * prueva 
 * estamos 
-** guardando **
-negrita negrita
+**guardando**
+*negrita negrita*
 * casa 
